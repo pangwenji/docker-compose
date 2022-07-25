@@ -1,0 +1,3 @@
+$ docker cp mongo_backup_0725.tar.gz {id}:/data/backup0725
+
+mongorestore
